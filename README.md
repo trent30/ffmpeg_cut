@@ -16,4 +16,4 @@ The output filename is automatically generate to not erase existing files.
 
 ## License
 
-[WTFP](LLICENSE.txt)
+[WTFP](LICENSE.txt)
