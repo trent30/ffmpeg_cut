@@ -13,7 +13,7 @@ Instead of `ffmpeg -i file.mp4 -ss 00:00:03 -t 00:00:08 -async 1 -c copy file_00
 `ptyhon ffmpeg_cut.py 3 11 file.mp4`
 
 The output filename is automatically generate to not erase existing files.
-The left zero are not mandatory : 1:42 means 1 minute and 42 seconds.
+The left zero are not mandatory, `1:42` means 1 minute and 42 seconds.
 
 ## License
 
